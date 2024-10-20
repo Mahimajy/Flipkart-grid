@@ -30,7 +30,6 @@ You can then train the model by using the train.py file
 ```
 python train_model.py --dataset dataset --model fruits.h5
 ```
-![alt text](https://github.com/siddhesh1598/Freshness_Detection_Of_Fruits/blob/master/plot.png?raw=true)
 
 The plot for Training and Validation Loss and Accuracy.
 
@@ -49,7 +48,7 @@ You need to pass some parameters for the test_model.py file:
 
 ## Authors
 
-* **Siddhesh Shinde** - *Initial work* - [SiddheshShinde](https://github.com/siddhesh1598)
+* **Mahima Yadav** 
 
 
 ## Acknowledgments
