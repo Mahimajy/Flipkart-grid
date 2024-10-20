@@ -15,6 +15,7 @@ Clone the project repository to your local machine, then follow up with the step
 
 ### Requirements
 
+```
 pip install -r requirements.txt
 ```
 
